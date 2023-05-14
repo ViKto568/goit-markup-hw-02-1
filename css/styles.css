@@ -173,6 +173,7 @@ body {
     font-size: 16px;
     line-height: calc(30 / 16);
     letter-spacing: 0.03em;
+    color: var(--praimary-tex-color);
 }
 
 .meta-img {
